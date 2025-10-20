@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Blair/OneDrive/Documents/GitHub/Posession_Proto_Team12_DevCon2/LastTry/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Blair/OneDrive/Documents/GitHub/Posession_Proto_Team12_DevCon2/LastTry/Content/ThirdPerson/Blueprints/BP_PLayerController.uasset",
+				"C:/Users/Blair/OneDrive/Documents/GitHub/Posession_Proto_Team12_DevCon2/LastTry/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
