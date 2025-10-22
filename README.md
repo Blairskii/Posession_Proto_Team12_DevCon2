@@ -1,2 +1,13 @@
-# Posession_Proto_Team12_DevCon2
-Second Rapid Prototyping Project for Group 12 in Mohawk Game Design's Digital Prototype Development
+# **_"The King and the Fool"_ - GAME10016 - DevCon 1 - Rapid Prototype 2**
+
+**DevCon 1:** Rapid Prototype 2  
+**Title:** The King and the Fool  
+**Team:** Jake, Blair, Sergio  
+
+(WIP)
+
+Description:
+
+Controls:
+
+
