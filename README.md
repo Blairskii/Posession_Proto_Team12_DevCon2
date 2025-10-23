@@ -2,7 +2,7 @@
 
 **DevCon 1:** Rapid Prototype 2  
 **Title:** The King and the Fool  
-**Team: Group 12** - Blair, Jake, Sergio   
+**Team: Team 12** - Blair, Jake, Sergio   
 
 # Introduction:
 
