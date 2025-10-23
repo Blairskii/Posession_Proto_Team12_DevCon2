@@ -32,6 +32,10 @@ The range of possession targets could run the gamut, so to speak, and could prov
   
 - Sergio - Assets, Level Design
 
+# Designer Commentary Video
+
+[Link to Video](https://www.youtube.com/watch?v=RfuTFQ6iAp8)
+
 # **Core Gameplay:**
 
 ![chameleon](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/chameleon.png)
