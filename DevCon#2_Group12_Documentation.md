@@ -1,4 +1,4 @@
-**Digital Prototype Development - GAME-10016** Group 12 - Jake, Blair and Sergio
+**Digital Prototype Development - GAME-10016 - Rapid Prototype 2** - Group 12 - Jake, Blair and Sergio
 
 **“_The King and the Fool_” - Design Documentation**
 
@@ -138,6 +138,7 @@ How To Change A Blueprint Parent Class In Unreal Engine 4 & 5 (Tutorial)
 
 - https://www.youtube.com/watch?v=T2W-rYcLcOM
 
+---
 
 **3D Assets**
 
