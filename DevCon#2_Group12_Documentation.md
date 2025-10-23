@@ -2,27 +2,35 @@
 
 **“_The King and the Fool_” - Design Documentation**
 
+---
+
 **Overview:**
 
 _The King and the Fool_ is a puzzle platformer game with a new twist on the typical conventions of the genre, in that it offers the player the ability to possess a wide range of household objects in their quest to escape the place they are trapped within, and reunite the fragments of their shattered soul. As a fragment of the soul of a Divine Emperor, you do not have a corporeal body, but who's to say you can't utilize the objects around you to get things done? After all, you still have _some_ divine power, and the High Lords would sooner destroy Jantris than wait until you return to force them into submission. 
 
+---
+
 **Objective:**
 
-![poltergeist]()
+![poltergeist](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/poltergeist.png)
 
 We seek to create a puzzle platformer game that tasks the player with utilizing not just the toolset of _one_ character, but the varied toolsets offered by the _variety_ of household objects that you can possess and manipulate. Each object will provide different abilities, and will play a different role in the player's escape, so the player must use the different objects creatively to solve various problems that will culminate with their escape from the house they are initially trapped in. What we are really trying to test here is: How does shifting between objects change player engagement and level navigation, and does possession encourage creative solutions and strategies compared to conventional models of control with just one character. 
 
 One single character is straightforward, and provides a solid, defined set of options for the player, but having multiple different "bodies" that the player can inhabit - that also remain in the world when not actively in use - provides a range of new options, even beyond the sum of the individual abilities or functions of the objects. We think this could provide some very interesting possibilities with regards to level design, and freeform problem solving, and so this prototype serves to explore the potential present in these ideas. 
 
+---
+
 **Design Rationale**
 
 Most games tend to lock players into one "body" or one way of experiencing the world of the game. Even when they give players some variety, it's usually in the form of switching between characters who mostly play the same way (ie; If you're playing a hack 'n' slash game, chances are that the alternate characters also play similarly to the starting character, even if they have a different playstyle or role, gameplay-wise). 
 
-![marioodyssey]()
+![marioodyssey](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/marioodyssey.png)
 
 This game would seek to use possession as a _main mechanic_, rather than as a temporary ability (as opposed to something like Mario's ability to control enemies and objects in Super Mario Odyssey), so as to give the player a _far_ greater range of options with how they can interact with the game world, how they can solve problems, or otherwise just how they can experience the game.
 
 The range of possession targets could run the gamut, so to speak, and could provide the player with multiple different valid ways of solving a puzzle. Our main player experience goal here is to create moments where players have to think of the objects in the room as unique tools that can help them accomplish their task rather than just as useless props. 
+
+---
 
 **Team & Roles:** 
 
@@ -32,13 +40,17 @@ The range of possession targets could run the gamut, so to speak, and could prov
   
 - Sergio - Assets, Level Design
 
+---
+
 **Core Gameplay:**
 
-![chameleon]()
+![chameleon](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/chameleon.png)
 
 The core gameplay of _The King and the Fool_ involves possessing different objects, and using their unique traits and properties to solve problems, and ultimately, for what would be the first act, escape the house they are initially trapped within. The player would have to reach some goal, such as an open window, a vent, or a hole in a wall, and would have to possess a variety of different objects that would let them reach that goal when used together in the correct way (or in one of the multiple correct ways to reach a particular goal). Outside of any times where there is only one defined solution for a particular challenge, the game will allow for emergent gameplay to develop, and players will be free to experiment and devise different ways of achieving their goal. The game would automatically autosave between levels and on regular intervals within levels so that the player does not have to worry about losing progress when they exit, or if the game happens to crash.
 
 While the first act of the game would be to escape the house that they start out within, the game's scope would grow significantly later on, into the second and third acts, as the player's ability to possess larger and more complex objects grows. While they would start off possessing household objects, the later stages of the game could have the player possessing complex electronic systems, large structures and industrial objects, or even complex machinery like vehicles, essentially having them take the role of some massively powerful anomalous spirit. 
+
+---
 
 **Core Mechanics:**
 
@@ -54,19 +66,25 @@ While the first act of the game would be to escape the house that they start out
         
 - Interactible Control Objects: These objects can move or tip slightly when possessed, and can be used to traverse to another puzzle element. 
 
+---
+
 **Graphics and Aesthetics:**
 
-![darkcloud]()
+![darkcloud](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/darkcloud.png)
 
 Graphically, _The King and the Fool_ will use a low-poly retro style, reminiscent of the aesthetics of games on the PS1 and the PS2. In particular, Dark Cloud on the PS2 and King's Field IV on the PS1 were sources of inspiration for the aesthetic style of this game, and while most of the content will take place in the modern era, as it is Dark Fantasy story at heart, it will essentially depict a modern setting with a Dark Fantasy coat of paint applied over it. 
 
-![kingsfield4]()
+![kingsfield4](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/kingsfield4.png)
 
 Objects will look as they are expected to look, but where possible, things will take on a grittier, darker, and more detailed appearance than is typical for low-poly games set in a modern setting (which often entirely eschew the use of textures, going for flat colors instead). _Think Mouthwashing's graphical style, but with a dark fantasy spin on the textures._
 
-![mouthwashing]()
+![mouthwashing](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/mouthwashing.png)
+
+---
 
 **Narrative Hook:**
+
+(NOTE: Most of this is background information and lore that is not strictly necessary for the player to know, and exists mainly to provide context for the circumstances of the story, and information about the broader world that would exist beyond the confines of this prototype. Most of this would not be told directly to the player, and for all intents and purposes, the player would only really need to know the information within the README. The rest of this information would be drip-fed to the player over the course of the game, either through dialogue or through readable books, notes, or text logs.)
 
 Ancient tales tell of sorcerors, wizards, knights, dragons and more, however these are but tall tales told to entertain children, or scare them into obedience. Few tell of the truths buried deep within these legends, and even fewer still tell the true grisly details about the dark powers that waged war upon the mortal plane long ago. While those who lived through it are long dead, the history is long forgotten, and in the modern age it is regarded as mere fiction, there are grains of truth laying within even the modern tales that paint a dark picture, laying out the reality of how the world's fate rested on the knife's edge for a time.  
 
@@ -91,6 +109,8 @@ Upon unsealing the power contained within, the Emperor was instantly hit with a 
 Tyrodin had inadvertently scorned the God of Fate, a being known by many names but most commonly _The Fool_, and _this_ was his punishment. _The Fool_ knew all along that the King would attempt to overstep his bounds, and laid a trap in advance, deciding that he needed to be taught a lesson. In an instant, what was once the single God-Soul of the Divine Emperor of Jantris became a trillion tiny shards, scattering through the cosmic winds like the leaves of a tree in the autumn breeze. 
 
 With the Emperor's soul scattered to the cosmic winds, spreading out through space _and_ time, and all of Jantris aflame with the fires of war, the history of this time becomes murky, and nearly impossible to track. What _is_ certain is that a fragment of the Emperor's great soul has arrived in our time. What you must know is that _you_ are that fragment, whether or not you understand this at the moment. If you ever hope to reclaim the power you once wielded, you _must_ escape this place, and find a way to reunite the fragments of your soul. If you cannot, the Seven will destroy Jantris, and everything you sought to build will crumble to dust. Escape this place, reunite the fragments of your soul, and reclaim your position as the true Wheel-Turning King! 
+
+--- 
 
 **Sources & Citations:**
 
