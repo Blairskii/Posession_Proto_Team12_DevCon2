@@ -1,16 +1,16 @@
-**Digital Prototype Development - GAME-10016 - Rapid Prototype 2** - Group 12 - Jake, Blair and Sergio
+# **Digital Prototype Development - GAME-10016 - Rapid Prototype 2** - Group 12 - Jake, Blair and Sergio
 
 **“_The King and the Fool_” - Design Documentation**
 
 ---
 
-**Overview:**
+# **Overview:**
 
 _The King and the Fool_ is a puzzle platformer game with a new twist on the typical conventions of the genre, in that it offers the player the ability to possess a wide range of household objects in their quest to escape the place they are trapped within, and reunite the fragments of their shattered soul. As a fragment of the soul of a Divine Emperor, you do not have a corporeal body, but who's to say you can't utilize the objects around you to get things done? After all, you still have _some_ divine power, and the High Lords would sooner destroy Jantris than wait until you return to force them into submission. 
 
 ---
 
-**Objective:**
+# **Objective:**
 
 ![poltergeist](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/poltergeist.png)
 
@@ -20,7 +20,7 @@ One single character is straightforward, and provides a solid, defined set of op
 
 ---
 
-**Design Rationale**
+# **Design Rationale**
 
 Most games tend to lock players into one "body" or one way of experiencing the world of the game. Even when they give players some variety, it's usually in the form of switching between characters who mostly play the same way (ie; If you're playing a hack 'n' slash game, chances are that the alternate characters also play similarly to the starting character, even if they have a different playstyle or role, gameplay-wise). 
 
@@ -32,7 +32,7 @@ The range of possession targets could run the gamut, so to speak, and could prov
 
 ---
 
-**Team & Roles:** 
+# **Team & Roles:** 
 
 - Blair - Programming, Design
 
@@ -42,7 +42,7 @@ The range of possession targets could run the gamut, so to speak, and could prov
 
 ---
 
-**Core Gameplay:**
+# **Core Gameplay:**
 
 ![chameleon](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/chameleon.png)
 
@@ -52,9 +52,9 @@ While the first act of the game would be to escape the house that they start out
 
 ---
 
-**Core Mechanics:**
+# **Core Mechanics:**
 
-**Possession**
+## **Possession**
 
 The one single main mechanic with this game is Possession, where the player can take over a range of different items that will each perform differently, and occupy different roles in the player's 'toolbox'. It is hard to describe the specifics of this mechanic, as each object will perform differently, but in general, this mechanic will allow the player to control _most_ objects that would normally be random, insignificant props in other games. Each prop will have a general behavior depending on the type of object, and then may also have different unique mechanics to them, depending on what they are and what makes sense for that object. 
  
@@ -68,7 +68,7 @@ There are generally three types of objects: Stationary Objects, Boolean Objects,
 
 ---
 
-**Graphics and Aesthetics:**
+# **Graphics and Aesthetics:**
 
 ![darkcloud](https://media.githubusercontent.com/media/Blairskii/Posession_Proto_Team12_DevCon2/refs/heads/Jake_Documentation/Assets/darkcloud.png)
 
@@ -82,7 +82,7 @@ Objects will look as they are expected to look, but where possible, things will 
 
 ---
 
-**Narrative Hook:**
+# **Narrative Hook:**
 
 (NOTE: Most of this is background information and lore that is not strictly necessary for the player to know, and exists mainly to provide context for the circumstances of the story, and information about the broader world that would exist beyond the confines of this prototype. Most of this would not be told directly to the player, and for all intents and purposes, the player would only really need to know the information within the README. The rest of this information would be drip-fed to the player over the course of the game, either through dialogue or through readable books, notes, or text logs.)
 
@@ -112,7 +112,7 @@ With the Emperor's soul scattered to the cosmic winds, spreading out through spa
 
 --- 
 
-**Sources & Citations:**
+# **Sources & Citations:**
 
 Auto Possess and Switching Between a Player and a Pawn in Unreal Engine
 
@@ -140,7 +140,7 @@ How To Change A Blueprint Parent Class In Unreal Engine 4 & 5 (Tutorial)
 
 ---
 
-**3D Assets**
+# **3D Assets**
 
 **Blair:**
 
