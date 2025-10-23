@@ -54,11 +54,11 @@ While the first act of the game would be to escape the house that they start out
 
 **Core Mechanics:**
 
-- **Possession**
+**Possession**
 
-- The one single main mechanic with this game is Possession, where the player can take over a range of different items that will each perform differently, and occupy different roles in the player's 'toolbox'. It is hard to describe the specifics of this mechanic, as each object will perform differently, but in general, this mechanic will allow the player to control _most_ objects that would normally be random, insignificant props in other games. Each prop will have a general behavior depending on the type of object, and then may also have different unique mechanics to them, depending on what they are and what makes sense for that object. 
+The one single main mechanic with this game is Possession, where the player can take over a range of different items that will each perform differently, and occupy different roles in the player's 'toolbox'. It is hard to describe the specifics of this mechanic, as each object will perform differently, but in general, this mechanic will allow the player to control _most_ objects that would normally be random, insignificant props in other games. Each prop will have a general behavior depending on the type of object, and then may also have different unique mechanics to them, depending on what they are and what makes sense for that object. 
  
-  There are generally three types of objects: Stationary Objects, Boolean Objects, and Interactible Control Objects.
+There are generally three types of objects: Stationary Objects, Boolean Objects, and Interactible Control Objects.
 
 - Stationary Objects: These objects can be possessed, and then used to move towards a goal. (ex: crates)
 
@@ -115,31 +115,41 @@ With the Emperor's soul scattered to the cosmic winds, spreading out through spa
 **Sources & Citations:**
 
 Auto Possess and Switching Between a Player and a Pawn in Unreal Engine
-https://www.youtube.com/watch?v=dgkQGUeWKSA
+
+- https://www.youtube.com/watch?v=dgkQGUeWKSA
 
 UE4 - Changing Characters UE4 Possession
-https://www.youtube.com/watch?v=FeHd_PibD14
+
+- https://www.youtube.com/watch?v=FeHd_PibD14
 
 Possess Pawn with Line Trace & Attach Actor in Vehicle in Unreal Engine1
-https://www.youtube.com/watch?v=g1V2MxYEVus
+
+- https://www.youtube.com/watch?v=g1V2MxYEVus
 
 UE4 - Tutorial - Possession! 
-https://www.youtube.com/watch?v=RwtCfMMMt7M
+
+- https://www.youtube.com/watch?v=RwtCfMMMt7M
 
 Create a Multiplayer Prop Hunt Game | Unreal Engine 5.4 Beginner Tutorial
-https://www.youtube.com/watch?v=nBC0C7xrubA
+
+- https://www.youtube.com/watch?v=nBC0C7xrubA
 
 How To Change A Blueprint Parent Class In Unreal Engine 4 & 5 (Tutorial)
-https://www.youtube.com/watch?v=T2W-rYcLcOM
+
+- https://www.youtube.com/watch?v=T2W-rYcLcOM
+
 
 **3D Assets**
 
 **Blair:**
+
 Furniture FREE - Low Poly 3D Models Pack
-https://www.fab.com/listings/3eca0616-aa73-4348-9af5-cb4c173f237e
+
+- https://www.fab.com/listings/3eca0616-aa73-4348-9af5-cb4c173f237e
 
 **Sergio:**
-https://free3d.com/
+
+- https://free3d.com/
 
 * Flower pot 3D model
 * Realistic bottle of Coca Cola 3D model
