@@ -1,8 +1,8 @@
-# **_"The King and the Fool"_ - GAME10016 - Rapid Prototype 2**
+# **_The King and the Fool_ - GAME10016 - Rapid Prototype 2**
 
 **DevCon 1:** Rapid Prototype 2  
 **Title:** The King and the Fool  
-**Team:** Jake, Blair, Sergio  
+**Team: Group 12** - Blair, Jake, Sergio   
 
 # Introduction:
 
